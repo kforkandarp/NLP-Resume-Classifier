@@ -14,5 +14,6 @@ venv/
 # System
 .DS_Store
 
-# Other
+# Project specific
 uploads/
+models/*.pkl
