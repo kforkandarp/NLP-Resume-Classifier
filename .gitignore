@@ -1,5 +1,5 @@
 # Python
-__pycache__/
+_pycache_/
 *.pyc
 *.pyo
 *.pyd
@@ -7,13 +7,25 @@ __pycache__/
 
 # Virtual environment
 venv/
+env/
+.env
 
 # Jupyter Notebook
 .ipynb_checkpoints/
 
-# System
-.DS_Store
+# IDEs and Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
 
-# Project specific
-uploads/
-models/*.pkl
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Project-specific ignored files/folders
+# (Add your specific files here)
+# uploads/
+# data/
+# notebooks/
+# models/
