@@ -1,0 +1,11 @@
+flask
+pdfplumber
+python-docx
+scikit-learn
+pandas
+numpy
+nltk
+joblib
+jupyter
+matplotlib
+seaborn
